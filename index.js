@@ -23,7 +23,7 @@ function createTimeInEvent(employeeRecord, dateTime) {
         hour: parseInt(hour),
         date: date
     });
-    return employeeRecord;
+    return employeeRecord;  
 }
 
 // Function to add timeOut event
